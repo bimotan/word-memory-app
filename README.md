@@ -165,5 +165,5 @@ git push -u origin main
 **Xinrun Li**
 
 ## 📄 License · 许可证
-
-Recommend **MIT License** for open‑source. 建议使用 **MIT** 许可证开源。
+This project is licensed under the MIT License — see the LICENSE file for details.
+本项目采用 MIT 许可证，详情见 LICENSE 文件。
