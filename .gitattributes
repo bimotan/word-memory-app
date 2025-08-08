@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Java & build
+*.class
+*.ctxt
+/out/
+/target/
+/build/
+/bin/
+
+# BlueJ
+package.bluej
+
+# IDE
+/.idea/
+*.iml
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
