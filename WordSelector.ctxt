@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=WordSelector
-comment1.params=words
-comment1.target=Word\ selectReviewWord(java.util.List)
-comment2.params=word\ currentTime
-comment2.target=float\ calculateUrgency(Word,\ long)
-comment3.params=word\ currentTime
-comment3.target=float\ calculateOverdueFactor(Word,\ long)
-numComments=4
