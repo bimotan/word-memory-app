@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=SpacedRepetition
-comment1.params=word\ quality
-comment1.target=void\ updateMemory(Word,\ int)
-numComments=2
