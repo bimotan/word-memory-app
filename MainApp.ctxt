@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MainApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ selectWordFile()
+comment3.params=
+comment3.target=java.lang.String\ createNewWordFile()
+comment4.params=manager
+comment4.target=void\ addNewWords(WordManager)
+comment5.params=manager
+comment5.target=void\ reviewWords(WordManager)
+comment6.params=manager
+comment6.target=void\ listAllWords(WordManager)
+numComments=7

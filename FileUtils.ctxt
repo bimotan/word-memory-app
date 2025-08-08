@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FileUtils
+comment1.params=
+comment1.target=java.util.List\ listTextFiles()
+comment2.params=
+comment2.target=boolean\ hasTextFiles()
+comment3.params=baseName
+comment3.target=java.lang.String\ createTextFile(java.lang.String)
+numComments=4
