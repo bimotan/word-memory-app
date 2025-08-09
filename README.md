@@ -129,7 +129,7 @@ Menu · 菜单：
 
 ---
 
-## 🛠 Roadmap · 迭代计划（建议）
+## 🛠 Roadmap · 迭代计划
 
 - [ ] Add import/export (CSV/JSON) · 支持 CSV/JSON 导入导出  
 - [ ] Multiple decks & tags · 支持多词库和标签  
