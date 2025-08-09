@@ -137,27 +137,6 @@ Menu · 菜单：
 - [ ] GUI (JavaFX/Swing) · 图形界面  
 - [ ] Unit tests & CI · 单元测试与持续集成
 
----
-
-## 📦 Getting Ready for GitHub · GitHub 上传指引
-
-1. Create a new repo on GitHub (Public). 新建公开仓库  
-2. Locally put `.java` files and this `README.md` in repo folder. 将源码与 README 放入仓库目录  
-3. Add a `.gitignore` (see below). 添加 `.gitignore`  
-4. (Optional) Add `LICENSE` (MIT) and a **screenshot** folder. 可选加入 MIT 许可证与截图  
-5. Commit & Push 提交并推送：
-
-```bash
-git init
-git add .
-git commit -m "init: smart word learning CLI"
-git branch -M main
-git remote add origin https://github.com/bimotan/<repo-name>.git
-git push -u origin main
-```
-
----
-
 
 ---
 
